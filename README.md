@@ -8,7 +8,7 @@
 ## 1주차
 
 #### Chapter1. 리액트 개발을 위해 꼭 알아야 할 자바스크립트
-- [Jisun - Ch1]()
+- [Jisun - Ch1](https://www.notion.so/01-1604bdcc393e80779f0ff6d60f1574b1?pvs=4)
 
 #### Chapter2. 리액트 핵심 요소 깊게 살펴보기
 - [Yuyeol - Ch3](https://trusting-cosmonaut-1d2.notion.site/JSX-React-Fiber-16374afbd83780c28ff4c0ef5725623b?pvs=4)
