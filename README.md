@@ -12,3 +12,4 @@
 - [JaeYeon - Ch1](https://velog.io/@hjng0825/%EB%AA%A8%EB%8D%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%94%A5-%EB%8B%A4%EC%9D%B4%EB%B8%8C-1.5-1.7?pvs=4)
 #### Chapter2. 리액트 핵심 요소 깊게 살펴보기
 - [Yuyeol - Ch2](https://trusting-cosmonaut-1d2.notion.site/JSX-React-Fiber-16374afbd83780c28ff4c0ef5725623b?pvs=4)
+- [museong - Ch2](https://laced-ironclad-2c9.notion.site/react-deep-dive-168cc8b6c89680b4be8dc309d0a57eb2)
