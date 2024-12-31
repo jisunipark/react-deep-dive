@@ -13,3 +13,8 @@
 #### Chapter2. 리액트 핵심 요소 깊게 살펴보기
 - [Yuyeol - Ch2](https://trusting-cosmonaut-1d2.notion.site/JSX-React-Fiber-16374afbd83780c28ff4c0ef5725623b?pvs=4)
 - [museong - Ch2](https://laced-ironclad-2c9.notion.site/react-deep-dive-168cc8b6c89680b4be8dc309d0a57eb2)
+
+## 2주차
+
+#### Chapter3. 리액트 훅 깊게 살펴보기
+- [museong - Ch3](https://laced-ironclad-2c9.notion.site/react-deep-dive-2-16dcc8b6c89680399ea8f16d1a030cdc?pvs=4)
