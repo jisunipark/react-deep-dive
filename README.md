@@ -17,4 +17,6 @@
 ## 2주차
 
 #### Chapter3. 리액트 훅 깊게 살펴보기
+- [Yuyeol - Ch3](https://trusting-cosmonaut-1d2.notion.site/3-1-16674afbd8378041b6c3fefa582d7945?pvs=4)
 - [museong - Ch3](https://laced-ironclad-2c9.notion.site/react-deep-dive-2-16dcc8b6c89680399ea8f16d1a030cdc?pvs=4)
+
