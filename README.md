@@ -28,6 +28,7 @@
 
 #### Chapter5. 리액트와 상태 관리 라이브러리
 - [Jisun - Ch5](https://www.notion.so/5-1734bdcc393e8044b1ceecdca2311a2f?pvs=4)
+- [Yuyeol - Ch5](https://trusting-cosmonaut-1d2.notion.site/Recoil-Jotai-Zustand-16f74afbd837809db5c4f2464dbb7c73?pvs=4)
 
 #### Chapter6, 7. 리액트 개발 도구로 디버깅하기, 크롬 개발자 도구를 활용한 애플리케이션 분석
 - [museong - Ch6,7](https://laced-ironclad-2c9.notion.site/react-deep-dive-3-173cc8b6c8968053a940ceaddd85580a?pvs=4)
