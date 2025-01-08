@@ -22,3 +22,11 @@
 
 #### Chapter4. 서버 사이드 렌더링
 - [Jisun - Ch4](https://www.notion.so/04-16e4bdcc393e80bb8299f311088b90f6?pvs=4)
+
+
+## 3주차
+
+#### Chapter6, 7. 리액트 개발 도구로 디버깅하기, 크롬 개발자 도구를 활용한 애플리케이션 분석
+- [museong - Ch6,7](https://laced-ironclad-2c9.notion.site/react-deep-dive-3-173cc8b6c8968053a940ceaddd85580a?pvs=4)
+
+
